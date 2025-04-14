@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://drive.google.com/uc?export=view&id=12bWD6jfj8mOAizhn5KEBHoF0lcUNSEWu)
+![Welcome to my GitHub](https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif)
 
 # 👋 Hi there, I’m Maryam (@mar-yam12)
 
