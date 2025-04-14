@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif)
+![Welcome to my GitHub](https://camo.githubusercontent.com/05b0de8307bbf3cd13ba6b8d5b4dd8487847691677e44d141640a2610d0fd5dd/68747470733a2f2f63646e2e6861636b65726e6f6f6e2e636f6d2f696d616765732f66327078333666792e676966)
 
 # 👋 Hi there, I’m Maryam (@mar-yam12)
 
