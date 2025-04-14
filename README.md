@@ -1,4 +1,4 @@
-![Welcome to my GitHub](file:///C:/Users/Yousuf/Downloads/Beige%20and%20Brown%20Neutral%20Elegant%20Welcome%20YouTube%20Intro%20Video.mp4)
+![Welcome to my GitHub](https://drive.google.com/file/d/1bF7gk4V6bqWGDM6j43F4U5C4xnwqy_u0/view?usp=sharing)
 
 # 👋 Hi there, I’m Maryam (@mar-yam12)
 
