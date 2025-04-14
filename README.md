@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://your-banner-url.com/banner.png)
+![Welcome to my GitHub](file:///C:/Users/Yousuf/Downloads/Beige%20and%20Brown%20Neutral%20Elegant%20Welcome%20YouTube%20Intro%20Video.mp4)
 
 # 👋 Hi there, I’m Maryam (@mar-yam12)
 
@@ -18,13 +18,9 @@ I’m a passionate **Frontend Developer** diving deep into the world of **Full-S
 
 ### 🛠️ Tech Stack
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Clerk](https://img.shields.io/badge/Clerk-red?style=for-the-badge&logo=clerk)  
-![Sanity](https://img.shields.io/badge/Sanity-FF4785?style=for-the-badge&logo=sanity&logoColor=white)
-
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Clerk](https://img.shields.io/badge/Clerk-red?style=for-the-badge&logo=clerk) ![Sanity](https://img.shields.io/badge/Sanity-FF4785?style=for-the-badge&logo=sanity&logoColor=white)
+ 
 ---
 
 ### 🌟 Featured Projects
@@ -38,15 +34,15 @@ I’m a passionate **Frontend Developer** diving deep into the world of **Full-S
 
 ### 📊 GitHub Stats
 
-![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar-yam12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-yam12&layout=compact&theme=radical)
+![Maryam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mar-yam12&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mar-yam12&layout=compact&theme=radical)
+
 
 ---
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maryamshahid1211/)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:maryamshahid772@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maryamshahid1211/)  [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:maryamshahid772@gmail.com)
+
 
 <!---
 mar-yam12/mar-yam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
