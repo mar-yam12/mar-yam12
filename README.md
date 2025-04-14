@@ -1,4 +1,4 @@
-![Welcome to my GitHub](https://drive.google.com/file/d/12bWD6jfj8mOAizhn5KEBHoF0lcUNSEWu/view?usp=drive_link)
+![Welcome to my GitHub](https://drive.google.com/file/d/12bWD6jfj8mOAizhn5KEBHoF0lcUNSEWu/view?usp=sharing)
 
 # 👋 Hi there, I’m Maryam (@mar-yam12)
 
